@@ -14,7 +14,7 @@
 ### MDE
 1. [Eppo's article about MDE. Great resource for building intuition around the concept](https://docs.geteppo.com/statistics/sample-size-calculator/mde/)
 2. [Penn State Eberly College of science STAT415 online textbook with a simple example of the MDE formula derivation](https://online.stat.psu.edu/stat415/lesson/25/25.3)
-3. [Apple's article with an extensive list of formulas for MDE with](https://arxiv.org/abs/2305.16459)
+3. [Apple's article with an extensive list of MDE formulas for different scenarios (e.g. how to estimate MDE in case of ratio metric)](https://arxiv.org/abs/2305.16459)
 4. [Ozon's (huge russian online marketplace) article about AB testing with an advanced case of the MDE formula (multiple groups and multiple comparisons correction)](https://habr.com/ru/companies/ozontech/articles/712306/)
 5. [Booking's sample size calculator. Not only conversion metrics are included(!)](https://bookingcom.github.io/powercalculator/)
 6. [Kirill Kochnev's article discussing the consequences of unequal sample sizes on power of an AB test (e.g. what will happen to power if you split your auditory as 30/70 instead of 50/50)\[RU\]](https://koch-kir.medium.com/мощность-а-в-теста-с-неравными-выборками-4859ce2ddb13)
