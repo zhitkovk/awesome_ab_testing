@@ -7,8 +7,8 @@
 2. [25 misconceptions about pvalues. Helpful resource for the interviews:)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4877414/)
 
 ### Confidence intervals
-1. [Another link to the Daniel Lakens' textbook.](https://lakens.github.io/statistical_inferences/07-CI.html)
-2. [Eppo's write up on CIs. Pay attention to the usage of the delta method for providing CIs for the % lift](https://docs.geteppo.com/statistics/confidence-intervals/statistical-nitty-gritty/)
+1. [Another link to the Daniel Lakens' textbook, now the chapter about CIs](https://lakens.github.io/statistical_inferences/07-CI.html)
+2. [Eppo's write up on CIs. Pay attention to the usage of the delta method for providing CIs for the % lift](https://docs.geteppo.com/statistics/confidence-intervals/statistical-nitty-gritty/).
 3. [An article showing that the basic CI for the proportions can fail in certain cases. Wilson confidence interval for proportions is suggested as an alternative](https://www.econometrics.blog/post/don-t-use-the-textbook-ci-for-a-proportion/). [Part 2 is here](https://www.econometrics.blog/post/the-wilson-confidence-interval-for-a-proportion/)
 
 ### MDE
@@ -18,6 +18,9 @@
 4. [Ozon's article about AB testing with an advanced case of the MDE formula (multiple groups and multiple comparisons correction) \[RU\]](https://habr.com/ru/companies/ozontech/articles/712306/)
 5. [Booking's sample size calculator. Not only conversion metrics are included(!)](https://bookingcom.github.io/powercalculator/)
 6. [Kirill Kochnev's article discussing the consequences of unequal sample sizes on power of an AB test (e.g. what will happen to power if you split your auditory as 30/70 instead of 50/50)\[RU\]](https://koch-kir.medium.com/мощность-а-в-теста-с-неравными-выборками-4859ce2ddb13)
+
+### Global lift
+1. [Eppo's thorough guide on the topic](https://docs.geteppo.com/statistics/global-lift/)
 
 ### Sample Ratio Mismatch
 1. [A fundamental article about SRM with multiple examples of the SRM origin and ways to detect it](https://www.researchgate.net/publication/334720020_Diagnosing_Sample_Ratio_Mismatch_in_Online_Controlled_Experiments_A_Taxonomy_and_Rules_of_Thumb_for_Practitioners)
