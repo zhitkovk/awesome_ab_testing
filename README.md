@@ -36,7 +36,7 @@
 3. [Cool blog post with examples beyond CUPED. The author tries to fit a random forest on the pre experiment data and touches upon the issue of overfitting](http://www.degeneratestate.org/posts/2018/Jan/04/reducing-the-variance-of-ab-test-using-prior-information/)
 4. [Eppo's documentation about CUPED](https://docs.geteppo.com/statistics/cuped/)
 5. [Guide to the sample size estimation when using CUPED. TLDR: estimate rho on the historical data](https://www.statsig.com/blog/how-to-plan-test-duration-cuped)
-6. [One the best lectures about the mechanics of CUPED in Russian \[RU\]. Lots of Kudos to Philipp for uploading his HSE lectures to YouTube](https://www.youtube.com/watch?v=nGNeehLcXm0&list=PLNKXA-74YGLiK5Ig_evBlT8PqkQMexFIv&index=14)
+6. [One the best lectures about the mechanics of CUPED in Russian \[RU\]. Kudos to Philipp for sharing his HSE lectures on YouTube](https://www.youtube.com/watch?v=nGNeehLcXm0&list=PLNKXA-74YGLiK5Ig_evBlT8PqkQMexFIv&index=14)
 
 ### Bootstrap
 1. [One of the best lectures about bootstrap in Russian \[RU\]. Kudos to Philipp for sharing his HSE lectures on YouTube](https://www.youtube.com/watch?v=CjVNOeX-Ahk&list=PLNKXA-74YGLjDOtDSZEFoy1yP-3AfiHUC&index=20)
