@@ -15,7 +15,7 @@
 1. [Eppo's article about MDE. Great resource for building intuition around the concept](https://docs.geteppo.com/statistics/sample-size-calculator/mde/)
 2. [Penn State Eberly College of science STAT415 online textbook with a simple example of the MDE formula derivation](https://online.stat.psu.edu/stat415/lesson/25/25.3)
 3. [Apple's article with an extensive list of MDE formulas for different scenarios (e.g. how to estimate MDE in case of ratio metric)](https://arxiv.org/abs/2305.16459)
-4. [Ozon's (huge russian online marketplace) article about AB testing with an advanced case of the MDE formula (multiple groups and multiple comparisons correction \[RU\])](https://habr.com/ru/companies/ozontech/articles/712306/)
+4. [Ozon's article about AB testing with an advanced case of the MDE formula (multiple groups and multiple comparisons correction) \[RU\]](https://habr.com/ru/companies/ozontech/articles/712306/)
 5. [Booking's sample size calculator. Not only conversion metrics are included(!)](https://bookingcom.github.io/powercalculator/)
 6. [Kirill Kochnev's article discussing the consequences of unequal sample sizes on power of an AB test (e.g. what will happen to power if you split your auditory as 30/70 instead of 50/50)\[RU\]](https://koch-kir.medium.com/мощность-а-в-теста-с-неравными-выборками-4859ce2ddb13)
 
@@ -33,10 +33,10 @@
 3. [Cool blog post with examples beyond CUPED. The author tries to fit a random forest on the pre experiment data and touches upon the issue of overfitting](http://www.degeneratestate.org/posts/2018/Jan/04/reducing-the-variance-of-ab-test-using-prior-information/)
 4. [Eppo's documentation about CUPED](https://docs.geteppo.com/statistics/cuped/)
 5. [Guide to the sample size estimation when using CUPED. TLDR: estimate rho on the historical data](https://www.statsig.com/blog/how-to-plan-test-duration-cuped)
-6. [One the best lectures about the mechanics of CUPED in russian \[RU\]. Lots of Kudos to Philipp for uploading his HSE lectures to YouTube](https://www.youtube.com/watch?v=nGNeehLcXm0&list=PLNKXA-74YGLiK5Ig_evBlT8PqkQMexFIv&index=14)
+6. [One the best lectures about the mechanics of CUPED in Russian \[RU\]. Lots of Kudos to Philipp for uploading his HSE lectures to YouTube](https://www.youtube.com/watch?v=nGNeehLcXm0&list=PLNKXA-74YGLiK5Ig_evBlT8PqkQMexFIv&index=14)
 
 ### Bootstrap
-1. [One of the best lectures about bootstrap in russian \[RU\]. Kudos to Philipp for sharing his HSE lectures on YouTube](https://www.youtube.com/watch?v=CjVNOeX-Ahk&list=PLNKXA-74YGLjDOtDSZEFoy1yP-3AfiHUC&index=20)
+1. [One of the best lectures about bootstrap in Russian \[RU\]. Kudos to Philipp for sharing his HSE lectures on YouTube](https://www.youtube.com/watch?v=CjVNOeX-Ahk&list=PLNKXA-74YGLjDOtDSZEFoy1yP-3AfiHUC&index=20)
 2. [X5 Retail article with code and simulations \[RU\]](https://habr.com/ru/companies/X5Tech/articles/679842/)
 3. [Google introduces Poisson bootstrap in 2015:)](https://www.unofficialgoogledatascience.com/2015/08/an-introduction-to-poisson-bootstrap26.html)
 
