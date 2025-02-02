@@ -58,8 +58,8 @@
 ### Switchback experiments (to be added)
 1. [Doordash's introductory article with the simulations](https://careersatdoordash.com/blog/experiment-rigor-for-switchback-experiment-analysis/)
 
-### Sequential testing (to be added)
-1. [Very thorough guide from [Nikita Podlozhniy](https://www.linkedin.com/in/niki4-inc/). The article covers the most popular approaches to the sequential tests, provides extensive simulations and links to the literature.](https://npodlozhniy.github.io/posts/sequential-testing/)
+### Sequential testing
+1. [Very thorough guide from Nikita Podlozhniy. The article covers the most popular approaches to the sequential tests, provides extensive simulations and links to the literature.](https://npodlozhniy.github.io/posts/sequential-testing/)
 2. [Entry level article from Eppo, no formulas and code, but nice common sense layout](https://www.geteppo.com/blog/comparing-frequentist-vs-bayesian-approaches)
 3. [Spotify about GST](https://engineering.atspotify.com/2023/03/choosing-sequential-testing-framework-comparisons-and-discussions/)
 4. [Booking about GAVI](https://booking.ai/sequential-testing-at-booking-com-650954a569c7)
