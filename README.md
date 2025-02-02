@@ -59,10 +59,10 @@
 1. [Doordash's introductory article with the simulations](https://careersatdoordash.com/blog/experiment-rigor-for-switchback-experiment-analysis/)
 
 ### Sequential testing (to be added)
-1. [https://npodlozhniy.github.io/posts/sequential-testing/](Very thorough guide from [Nikita Podlozhniy](https://www.linkedin.com/in/niki4-inc/). The article covers the most popular approaches to the sequential tests, provides extensive simulations and links to the literature.)
-2. [https://www.geteppo.com/blog/comparing-frequentist-vs-bayesian-approaches](Entry level article from Eppo, no formulas and code, but nice common sense layout)
-3. [https://engineering.atspotify.com/2023/03/choosing-sequential-testing-framework-comparisons-and-discussions/](Spotify about GST)
-4. [https://booking.ai/sequential-testing-at-booking-com-650954a569c7](Booking about GAVI)
+1. [Very thorough guide from [Nikita Podlozhniy](https://www.linkedin.com/in/niki4-inc/). The article covers the most popular approaches to the sequential tests, provides extensive simulations and links to the literature.](https://npodlozhniy.github.io/posts/sequential-testing/)
+2. [Entry level article from Eppo, no formulas and code, but nice common sense layout](https://www.geteppo.com/blog/comparing-frequentist-vs-bayesian-approaches)
+3. [Spotify about GST](https://engineering.atspotify.com/2023/03/choosing-sequential-testing-framework-comparisons-and-discussions/)
+4. [Booking about GAVI](https://booking.ai/sequential-testing-at-booking-com-650954a569c7)
 
 ## MISC
 1. [Must read article with simulations for different statistical criteria. IMHO: the code for the simulations is as interesting as the rest of the article](https://vkteam.medium.com/practitioners-guide-to-statistical-tests-ed2d580ef04f)
